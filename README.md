@@ -1,28 +1,7 @@
 
-# OT209-server -  Java - Spring Boot (Proyecto: API REST) 🚀
-
-## El equipo de Desarrollo 🖥️
-
-**MENTOR:**
-* **Francisco Mastucci** - [LinkedIn](https://www.linkedin.com/in/franmastucci/) - [GitHub](https://github.com/franmastucci)
-
-**INTEGRANTES:**
-* **Gabriel Navarro** - [LinkedIn](https://linkedin.com/in/gabriel-navarro-233388219 ) - [GitHub](https://github.com/gabynavarro)
-* **Pablo Leyes** - [LinkedIn](https://www.linkedin.com/in/pablo-nahuel-leyes-989b71211/) - [GitHub](https://github.com/Yaguaret3)
-* **José Luis Ignacio** - [LinkedIn](https://www.linkedin.com/in/joseluis-ignacio98/) - [GitHub](https://github.com/Ignacio-JL)
-* **Adrián Fernández Rosa** - [LinkedIn](https://www.linkedin.com/in/adrian-fernandez-rosa/) - [GitHub](https://github.com/Adrian-Fernandez-Rosa)
-* **Luciano Isa** - [LinkedIn](https://www.linkedin.com/in/luciano-isa) - [GitHub](https://github.com/LucianoIsa)
-* **Connie Ansaldi** - [LinkedIn](https://www.linkedin.com/in/connie-ansaldi-2495ba18b/) - [GitHub](https://github.com/UserAnonn)
-* **Matias Solari** - [LinkedIn](https://www.linkedin.com/in/matias-solari-6377581ba/) - [GitHub](https://github.com/solariMatias)
-
-## ESTE PROYECTO ES PARTE DE LA ACELERACIÓN DE [ALKEMY](https://www.alkemy.org/) ❤️
-
-* Nuestro agradecimiento para quienes nos brindaron esta oportunidad y nos facilitan el camino para ingresar al mundo laboral IT.
-
-### Objetivo
 
 Proyecto ONG - Somos más. 
-Desarrollar una API como parte de un equipo de desarrolladores. Desarrollar un sitio que represente a la organización de Marita y el gran aporte que su equipo realiza para la comunidad.
+
 
 ### Herramientas utilizadas
 - 👉 Java y Spring Boot
